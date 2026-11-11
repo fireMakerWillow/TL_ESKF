@@ -1,0 +1,6 @@
+# Original algorithm environment
+numpy==2.3.5
+scipy==1.16.3
+# Also imported by plotting/analysis code
+pandas>=2.2,<3
+matplotlib>=3.10,<4
